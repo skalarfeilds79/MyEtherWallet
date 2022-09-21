@@ -144,7 +144,7 @@
     "vue-cli-plugin-vuetify": "2.4.2",
     "vue-i18n": "8.25.0",
     "vue-template-compiler": "2.6.14",
-    "vuetify": "2.4.3",
+    "vuetify": "2.6.10",
     "wallet-address-validator": "0.2.4",
     "web3": "1.4.0",
     "web3-core-helpers": "1.4.0",
